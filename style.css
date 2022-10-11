@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 9em;
+  font-family: 'Crimson Pro', serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 100%;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 17px;
+}
+
+button {
+  margin: 15px;
+  padding: 12px 18px;
+  border: 1px solid #af2029;
+  background: #af2029;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 4px;
+  text-style: bold;
+  text-align: centre;
+  font-family: 'Poppins', sans-serif; 
+}
+
+p {
+  text-decoration: underline;
+  font-size: 120%;
+}
